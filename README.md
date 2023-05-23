@@ -1,1 +1,4 @@
-#CRUD project using C Sharp MVC5 SQLServer ADO.NET
+#CRUD project using C Sharp ASP.NET MVC5 SQLServer
+Software used:
+#Visual Studio 2022 
+#SQL Server Management Studio 19
